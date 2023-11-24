@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">oryx</string>
+    <string name="title_activity_main">oryx</string>
+    <string name="package_name">oryx_user.iguru.co.ke</string>
+    <string name="custom_url_scheme">oryx_user.iguru.co.ke</string>
+</resources>
